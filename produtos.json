@@ -3,37 +3,37 @@
         "nome": "Calça Jeans",
         "tamanho": 42,
         "preco": 139.99,
-        "imagem": "img/teste.jpg"
+        "imagem": "img/calca.jpg"
 
     },
         {
         "nome": "Camisa",
-        "tamanho": 42,
+        "tamanho": "G",
         "preco": 49.99,
-        "imagem": "img/teste.jpg"
+        "imagem": "img/camisa.jpg"
     },
         {
         "nome": "Jaqueta",
-        "tamanho": 42,
+        "tamanho": "GG",
         "preco": 149.99,
-        "imagem": "img/teste.jpg"
+        "imagem": "img/jaqueta.jpg"
     },
         {
         "nome": "Calça Moletom",
-        "tamanho": 42,
+        "tamanho": 41,
         "preco": 59.99,
-        "imagem": "img/teste.jpg"
+        "imagem": "img/moletom.webp"
     },
         {
         "nome": "Blusa de frio",
-        "tamanho": 42,
+        "tamanho": "M",
         "preco": 59.99,
-        "imagem": "img/teste.jpg"
+        "imagem": "img/blusa.webp"
     },
         {
         "nome": "Shorts",
-        "tamanho": 42,
+        "tamanho": 43,
         "preco": 39.99,
-        "imagem": "img/teste.jpg"
+        "imagem": "img/shorts.webp"
     }
 ]
